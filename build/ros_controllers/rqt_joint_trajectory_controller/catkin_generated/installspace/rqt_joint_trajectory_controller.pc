@@ -1,0 +1,8 @@
+prefix=/home/lalit/catkin_ws/install
+
+Name: rqt_joint_trajectory_controller
+Description: Description of rqt_joint_trajectory_controller
+Version: 0.14.0
+Cflags: 
+Libs: -L/home/lalit/catkin_ws/install/lib 
+Requires: 

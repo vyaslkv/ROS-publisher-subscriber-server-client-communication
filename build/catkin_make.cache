@@ -1,0 +1,2 @@
+beginner_tutorials:ros_tutorials/ros_tutorials:ros_tutorials/roscpp_tutorials:ros_tutorials/rospy_tutorials:ros_tutorials/turtlesim
+-DCATKIN_DEVEL_PREFIX=/home/lalit/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/lalit/catkin_ws/install -G Unix Makefiles
